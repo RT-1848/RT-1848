@@ -1,6 +1,5 @@
 # 💫 About Me:
-- 🧠 I'm studying Computer Science at Middle Tennessee State University!<br>- 🌱 I’m currently learning HTML and CSS<br>- 📫 How to reach me: rpt2k@mtmail.mtsu.edu<br>- 😄 Pronouns: He / Him<br>- ⚡ Fun fact: I enjoy playing Tennis, Golf and Badminton!
-
+-* 🧠 I'm studying Computer Science at Middle Tennessee State University!*-<br> - 🌱 I’m currently learning HTML and CSS<br>- 📫 How to reach me: rpt2k@mtmail.mtsu.edu<br>- 😄 Pronouns: He / Him<br>- ⚡ Fun fact: I enjoy playing Tennis, Golf and Badminton!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ryan-thieu-a8ab1328a/) 
