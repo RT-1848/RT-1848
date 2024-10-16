@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 🧠 I'm studying Computer Science at Middle Tennessee State University!
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning ...
 - 📫 How to reach me: rpt2k@mtmail.mtsu.edu
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I enjoy playing Tennis, Golf, and Badminton!
@@ -14,7 +14,5 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RT-1848&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RT-1848&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RT-1848&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RT-1848&icon=0&color=12)](https://visitcount.itsvg.in)
