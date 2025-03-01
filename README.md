@@ -6,8 +6,8 @@ I'm <a href="https://www.linkedin.com/in/ryan-thieu-a8ab1328a/">Ryan</a>. a stud
 class Viet:
   pronouns = ("he", "him")
   languages = ["Python", "Java", "HTML", "CSS", "JavaScript", "C++", "C"]
-  tools: ["Git", "VSCode"]
-  frameworks: ["TailwindCSS", "React"]
+  tools = ["Git", "VSCode"]
+  frameworks = ["TailwindCSS", "React"]
 ```
 
 #### Fun Facts about me:
