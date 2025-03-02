@@ -1,6 +1,6 @@
 ## Welcome to my Github  <img width=30px src="https://emojis.slackmojis.com/emojis/images/1643514620/6248/dumpster-fire.gif?1643514620"> <img width=30px src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif?1643515023">
 
-I'm <a href="https://www.linkedin.com/in/ryan-thieu-a8ab1328a/">Ryan</a>. a student at Middle Tennessee State University
+I'm Ryan, a student at Middle Tennessee State University
 
 ```python
 class Viet:
