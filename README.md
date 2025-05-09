@@ -6,8 +6,9 @@ I'm Ryan, a student at Middle Tennessee State University
 class Viet:
   pronouns = ("he", "him")
   languages = ["Python", "Java", "HTML", "CSS", "JavaScript", "C++", "C"]
-  tools = ["Git", "VSCode"]
+  tools = ["Git", "VSCode", "Pycharm"]
   frameworks = ["TailwindCSS", "React"]
+  databases = ["MySQL"]
 ```
 
 #### Fun Facts about me:
