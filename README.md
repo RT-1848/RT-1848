@@ -7,8 +7,8 @@ class Viet:
   pronouns = ("he", "him")
   languages = ["Python", "Java", "HTML", "CSS", "JavaScript", "C++", "C"]
   tools = ["Git", "VSCode", "Pycharm"]
-  frameworks = ["TailwindCSS", "React"]
-  databases = ["MySQL"]
+  frameworksandlibraries = ["TailwindCSS", "React", "Node.js", "Express"]
+  databases = ["MySQL", "MongoDB"]
 ```
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/ryan-thieu-a8ab1328a/)
