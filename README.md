@@ -1,6 +1,6 @@
 ## Welcome to my Github!  <img width=30px src="https://emojis.slackmojis.com/emojis/images/1643514620/6248/dumpster-fire.gif?1643514620"> <img width=30px src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif?1643515023">
 
-Hi, I'm Ryan — currently exploring the world of tech while building projects to grow my portfolio and skills!
+Hi, I'm Ryan — currently building projects to grow my portfolio and skills!
 
 ```python
 class Viet:
