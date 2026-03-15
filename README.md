@@ -15,7 +15,7 @@ class Viet:
 
 #### Fun Facts about me:
  - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3be/512.gif" alt="🎾" width="20" height="20"> Outside of coding, I like to read manga and play badminton & tennis
- - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f49a/512.gif" alt="💚" width="20" height="20"> I enjoy matcha flavored things
+ - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f49a/512.gif" alt="💚" width="20" height="20"> I enjoy playing games! Currently I am playing Terraria and Slay the Spire 2!
  - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f697/512.gif" alt="🚗" width="20" height="20"> I like cars!
 
 
